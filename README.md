@@ -14,7 +14,7 @@ Given a text input (an English Reddit comment), the model will predict the prese
 3. Dataset
 Dataset Name: GoEmotions
 
-Dataset Source Link: https://huggingface.co/datasets/go_emotions
+Dataset Source Link: [https://huggingface.co/datasets/go_emotions](https://huggingface.co/datasets/google-research-datasets/go_emotions)
 
 Number of Examples: Approximately 58,000 curated examples.
 
