@@ -1,5 +1,5 @@
-1. Project Title
-Fine-Grained Emotion Classification of Reddit Comments using Deep Learning
+# 1. Project Title
+# Fine-Grained Emotion Classification of Reddit Comments using Deep Learning
 
 2. Problem Statement
 What problem are you trying to solve?
